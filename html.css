@@ -7,7 +7,7 @@ h2{
 h3{
     color: yellowgreen;background-color: violet;
 }
-p{color: blue;border: cadetblue;border-radius: 10px  20px 40px 60px;border-style: ridge;
+p{color: rgb(212, 212, 224);border: cadetblue;border-radius: 10px  20px 40px 60px;border-style: ridge;
 
 }
 #vuday{
