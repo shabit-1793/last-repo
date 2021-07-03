@@ -1,13 +1,13 @@
 h1{
-    color: khaki;background-color: lawngreen;text-align: center;
+    color: khaki;
 }
 h2{
-    color: red;background-color: yellow;text-align: right;
+    color: red;
 }
 h3{
-    color: yellowgreen;background-color: violet;
+    color: yellowgreen;
 }
-p{color: rgb(182, 182, 190);border: cadetblue;border-radius: 10px  20px 40px 60px;border-style: ridge;
+p{color: rgb(182, 182, 190);
 
 }
 #vuday{
